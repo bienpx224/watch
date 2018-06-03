@@ -1,3 +1,10 @@
+iframe:focus { 
+    outline: none;
+}
+
+iframe[seamless] { 
+    display: block;
+}
 .small-image{
 	height: 50px;
 	width: 50px

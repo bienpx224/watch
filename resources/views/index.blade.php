@@ -164,16 +164,14 @@
             </div>
 
             <div class="wrapper wrapper-content">
-                <div class="middle-box text-center animated fadeInRightBig">
-                    <h3 class="font-bold">This is page content</h3>
-                    <video id="video" width="352" height="198" controls>
-                    </video>
-                    <div class="error-desc">
-                        You can create here any grid layout you want. And any variation layout you imagine:) Check out
-                        main dashboard and other site. It use many different layout.
-                        <br/><a href="index-2.html" class="btn btn-primary m-t">Dashboard</a>
-                    </div>
-                </div>
+                <!-- <div class="middle-box text-center animated fadeInRightBig"> -->
+                <iframe scrolling="no" width="1000px" height="2000px" 
+                allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"
+                src="http://www.xemtvhd.com/"
+                ></iframe>
+                    <!-- <video id="video" width="352" height="198" controls>
+                    </video> -->
+                <!-- </div> -->
             </div>
             <div class="footer">
                 <div class="pull-right">
