@@ -164,12 +164,16 @@
             </div>
 
             <div class="wrapper wrapper-content">
+                <h1>{{$ten or "khong ton tai"}}</h1>
+                <h1>{{$tuoi or "khong ton tai"}}</h1>
+                <h1>{{$alias or "khong ton tai"}}</h1>
+
                 <!-- <div class="middle-box text-center animated fadeInRightBig"> -->
-                <iframe scrolling="no" width="1000px" height="2000px" 
+                <!-- <iframe scrolling="no" width="1000px" height="2000px" 
                 allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"
                 src="http://www.xemtvhd.com/"
                 ></iframe>
-                    <!-- <video id="video" width="352" height="198" controls>
+ -->                    <!-- <video id="video" width="352" height="198" controls>
                     </video> -->
                 <!-- </div> -->
             </div>
